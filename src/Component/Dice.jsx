@@ -8,7 +8,7 @@ import dice4 from './images/dice 4.jpg'
 import dice5 from './images/dice 5.jpg'
 import dice6 from './images/dice 6.jpg'
 
-
+ 
 const Dice = () => {
   const [currentFace, setCurrentFace] = useState(dice1);
   const [currentFace2, setCurrentFace2] = useState(dice1);
